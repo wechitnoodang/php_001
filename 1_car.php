@@ -1,4 +1,9 @@
 <?php   
 // คำสั่งแสดงผล
-echo "Hello PHP";
-echo "สวัสดี ";
+class Car
+{
+    public function helloClass(){
+        echo "hello form Car Class";
+    }
+}
+?>
